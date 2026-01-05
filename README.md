@@ -1,5 +1,7 @@
 # Windows-1
 
+InLighnX Global Pvt Ltd internship Projects No-3
+
 ## Project Overview
 
 This project demonstrates a vulnerable Windows-based lab designed for offensive cybersecurity training. The lab simulates a legacy enterprise file server running an outdated Windows operating system that is vulnerable to the EternalBlue exploit (MS17-010). The goal of this lab is to help learners understand real-world exploitation of unpatched SMB services, post-exploitation enumeration, and privilege escalation in a controlled environment.
