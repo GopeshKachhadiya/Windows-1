@@ -1,6 +1,5 @@
 # Windows-1
 
-InLighnX Global Pvt Ltd internship Projects No-3
 
 ## Project Overview
 
