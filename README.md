@@ -180,7 +180,10 @@ This project is intended for educational and authorized security testing purpose
 
 ---
 
-## Author
+## Created By
 
-Developed By Gopesh Kachhadiya 
-Developed as part of an offensive cybersecurity internship project to demonstrate practical exploitation of legacy Windows vulnerabilities in a simulated enterprise environment.
+- Name: Gopesh Kachhadiya
+- Role: Junior Penetration Tester 
+- Purpose: Internship Project and Skill Demonstration
+- Domain: Offensive Security and AI Penetration Testing
+- This lab was created as part of an offensive cybersecurity internship project focused on realistic attack simulations and hands-on learning.
