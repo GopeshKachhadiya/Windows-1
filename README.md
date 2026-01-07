@@ -9,10 +9,10 @@ This lab is intended strictly for educational and ethical security research purp
 
 ---
 
-## Lab Links
+## Important Links:  
 
-Download Windows-1 : https://mega.nz/file/TRQmGJIC#syfm00N_z1xcUVrsYSTzyW3Qv0fc5CRCW8UDLKvysKM
-Documentation for Windows-1 With Walkthrough: https://drive.google.com/file/d/1sEMaauP_jIeu_CvYPWvRZ7Q4vXVPUKfD/view?usp=drive_link
+ - Download Windows-1 : https://mega.nz/file/SJAAwJib#hQAF04QawZrGdj3oCE6DwClVAZtHnJn_dfpe5yPGByg
+ - Documentation for Windows-1 With Walkthrough: https://mega.nz/file/DchFkZ4Z#QKn3ftYHAFDI-3bdnqmkFwSqkhY8PR9047LHA1GSjKE
 
 ---
 
