@@ -13,6 +13,7 @@ This lab is intended strictly for educational and ethical security research purp
 
  - Download Windows-1 : https://mega.nz/file/SJAAwJib#hQAF04QawZrGdj3oCE6DwClVAZtHnJn_dfpe5yPGByg
  - Documentation for Windows-1 With Walkthrough: https://mega.nz/file/DchFkZ4Z#QKn3ftYHAFDI-3bdnqmkFwSqkhY8PR9047LHA1GSjKE
+ - Guide for Downloading and Running Vulnerable Labs in VMware: https://mega.nz/file/WEADkSZI#MvjDTY0KfGxxmyVezcEnAjdz48AQ1adV4XlW9lmhSVo
 
 ---
 
